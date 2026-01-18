@@ -5,3 +5,4 @@ class Test {
         System.out.println(x + y);
     }
 }
+Output:30
